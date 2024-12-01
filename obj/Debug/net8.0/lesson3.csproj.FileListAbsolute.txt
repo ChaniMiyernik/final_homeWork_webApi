@@ -1,0 +1,586 @@
+M:\WEB-api\lesson3\lesson3\lesson3\obj\Debug\net8.0\lesson3.csproj.AssemblyReference.cache
+M:\WEB-api\lesson3\lesson3\lesson3\obj\Debug\net8.0\lesson3.GeneratedMSBuildEditorConfig.editorconfig
+M:\WEB-api\lesson3\lesson3\lesson3\obj\Debug\net8.0\lesson3.AssemblyInfoInputs.cache
+M:\WEB-api\lesson3\lesson3\lesson3\obj\Debug\net8.0\lesson3.AssemblyInfo.cs
+M:\WEB-api\lesson3\lesson3\lesson3\obj\Debug\net8.0\lesson3.csproj.CoreCompileInputs.cache
+M:\WEB-api\lesson3\lesson3\lesson3\obj\Debug\net8.0\lesson3.MvcApplicationPartsAssemblyInfo.cs
+M:\WEB-api\lesson3\lesson3\lesson3\obj\Debug\net8.0\lesson3.MvcApplicationPartsAssemblyInfo.cache
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\appsettings.Development.json
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\appsettings.json
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\lesson3.exe
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\lesson3.deps.json
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\lesson3.runtimeconfig.json
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\lesson3.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\lesson3.pdb
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\Azure.Core.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\Azure.Identity.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\Humanizer.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\Microsoft.OpenApi.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\Mono.TextTemplating.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\System.CodeDom.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\System.Composition.Convention.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\System.Composition.Hosting.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\System.Composition.Runtime.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\System.Composition.TypedParts.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\System.Drawing.Common.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\System.Memory.Data.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\System.Runtime.Caching.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\System.Security.Permissions.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\System.Windows.Extensions.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+M:\WEB-api\lesson3\lesson3\lesson3\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+M:\WEB-api\lesson3\lesson3\lesson3\obj\Debug\net8.0\staticwebassets.build.json
+M:\WEB-api\lesson3\lesson3\lesson3\obj\Debug\net8.0\staticwebassets.development.json
+M:\WEB-api\lesson3\lesson3\lesson3\obj\Debug\net8.0\staticwebassets\msbuild.lesson3.Microsoft.AspNetCore.StaticWebAssets.props
+M:\WEB-api\lesson3\lesson3\lesson3\obj\Debug\net8.0\staticwebassets\msbuild.build.lesson3.props
+M:\WEB-api\lesson3\lesson3\lesson3\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.lesson3.props
+M:\WEB-api\lesson3\lesson3\lesson3\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.lesson3.props
+M:\WEB-api\lesson3\lesson3\lesson3\obj\Debug\net8.0\staticwebassets.pack.json
+M:\WEB-api\lesson3\lesson3\lesson3\obj\Debug\net8.0\scopedcss\bundle\lesson3.styles.css
+M:\WEB-api\lesson3\lesson3\lesson3\obj\Debug\net8.0\lesson3.csproj.Up2Date
+M:\WEB-api\lesson3\lesson3\lesson3\obj\Debug\net8.0\lesson3.dll
+M:\WEB-api\lesson3\lesson3\lesson3\obj\Debug\net8.0\refint\lesson3.dll
+M:\WEB-api\lesson3\lesson3\lesson3\obj\Debug\net8.0\lesson3.pdb
+M:\WEB-api\lesson3\lesson3\lesson3\obj\Debug\net8.0\lesson3.genruntimeconfig.cache
+M:\WEB-api\lesson3\lesson3\lesson3\obj\Debug\net8.0\ref\lesson3.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\appsettings.Development.json
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\appsettings.json
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\lesson3.exe
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\lesson3.deps.json
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\lesson3.runtimeconfig.json
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\lesson3.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\lesson3.pdb
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\Azure.Core.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\Azure.Identity.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\Humanizer.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\Microsoft.OpenApi.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\Mono.TextTemplating.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\System.CodeDom.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\System.Composition.Convention.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\System.Composition.Hosting.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\System.Composition.Runtime.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\System.Composition.TypedParts.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\System.Drawing.Common.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\System.Memory.Data.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\System.Runtime.Caching.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\System.Security.Permissions.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\System.Windows.Extensions.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+M:\WEB-api\lesson4\lesson3\lesson3\obj\Debug\net8.0\lesson3.csproj.AssemblyReference.cache
+M:\WEB-api\lesson4\lesson3\lesson3\obj\Debug\net8.0\lesson3.GeneratedMSBuildEditorConfig.editorconfig
+M:\WEB-api\lesson4\lesson3\lesson3\obj\Debug\net8.0\lesson3.AssemblyInfoInputs.cache
+M:\WEB-api\lesson4\lesson3\lesson3\obj\Debug\net8.0\lesson3.AssemblyInfo.cs
+M:\WEB-api\lesson4\lesson3\lesson3\obj\Debug\net8.0\lesson3.csproj.CoreCompileInputs.cache
+M:\WEB-api\lesson4\lesson3\lesson3\obj\Debug\net8.0\lesson3.MvcApplicationPartsAssemblyInfo.cs
+M:\WEB-api\lesson4\lesson3\lesson3\obj\Debug\net8.0\lesson3.MvcApplicationPartsAssemblyInfo.cache
+M:\WEB-api\lesson4\lesson3\lesson3\obj\Debug\net8.0\staticwebassets.build.json
+M:\WEB-api\lesson4\lesson3\lesson3\obj\Debug\net8.0\staticwebassets.development.json
+M:\WEB-api\lesson4\lesson3\lesson3\obj\Debug\net8.0\staticwebassets\msbuild.lesson3.Microsoft.AspNetCore.StaticWebAssets.props
+M:\WEB-api\lesson4\lesson3\lesson3\obj\Debug\net8.0\staticwebassets\msbuild.build.lesson3.props
+M:\WEB-api\lesson4\lesson3\lesson3\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.lesson3.props
+M:\WEB-api\lesson4\lesson3\lesson3\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.lesson3.props
+M:\WEB-api\lesson4\lesson3\lesson3\obj\Debug\net8.0\staticwebassets.pack.json
+M:\WEB-api\lesson4\lesson3\lesson3\obj\Debug\net8.0\scopedcss\bundle\lesson3.styles.css
+M:\WEB-api\lesson4\lesson3\lesson3\obj\Debug\net8.0\lesson3.csproj.Up2Date
+M:\WEB-api\lesson4\lesson3\lesson3\obj\Debug\net8.0\lesson3.dll
+M:\WEB-api\lesson4\lesson3\lesson3\obj\Debug\net8.0\refint\lesson3.dll
+M:\WEB-api\lesson4\lesson3\lesson3\obj\Debug\net8.0\lesson3.pdb
+M:\WEB-api\lesson4\lesson3\lesson3\obj\Debug\net8.0\lesson3.genruntimeconfig.cache
+M:\WEB-api\lesson4\lesson3\lesson3\obj\Debug\net8.0\ref\lesson3.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\System.Data.SqlClient.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+M:\WEB-api\lesson4\lesson3\lesson3\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\appsettings.Development.json
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\appsettings.json
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\lesson3.exe
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\lesson3.deps.json
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\lesson3.runtimeconfig.json
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\lesson3.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\lesson3.pdb
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\Azure.Core.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\Azure.Identity.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\Humanizer.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\Microsoft.OpenApi.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\Mono.TextTemplating.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\System.CodeDom.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\System.Composition.Convention.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\System.Composition.Hosting.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\System.Composition.Runtime.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\System.Composition.TypedParts.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\System.Data.SqlClient.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\System.Drawing.Common.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\System.Memory.Data.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\System.Runtime.Caching.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\System.Security.Permissions.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\System.Windows.Extensions.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\obj\Debug\net8.0\lesson3.csproj.AssemblyReference.cache
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\obj\Debug\net8.0\lesson3.GeneratedMSBuildEditorConfig.editorconfig
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\obj\Debug\net8.0\lesson3.AssemblyInfoInputs.cache
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\obj\Debug\net8.0\lesson3.AssemblyInfo.cs
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\obj\Debug\net8.0\lesson3.csproj.CoreCompileInputs.cache
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\obj\Debug\net8.0\lesson3.MvcApplicationPartsAssemblyInfo.cs
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\obj\Debug\net8.0\lesson3.MvcApplicationPartsAssemblyInfo.cache
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\obj\Debug\net8.0\staticwebassets.build.json
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\obj\Debug\net8.0\staticwebassets.development.json
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\obj\Debug\net8.0\staticwebassets\msbuild.lesson3.Microsoft.AspNetCore.StaticWebAssets.props
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\obj\Debug\net8.0\staticwebassets\msbuild.build.lesson3.props
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.lesson3.props
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.lesson3.props
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\obj\Debug\net8.0\staticwebassets.pack.json
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\obj\Debug\net8.0\scopedcss\bundle\lesson3.styles.css
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\obj\Debug\net8.0\lesson3.csproj.Up2Date
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\obj\Debug\net8.0\lesson3.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\obj\Debug\net8.0\refint\lesson3.dll
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\obj\Debug\net8.0\lesson3.pdb
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\obj\Debug\net8.0\lesson3.genruntimeconfig.cache
+M:\web api\תרגילים\חני מירניק\lesson4\lesson3\lesson3\obj\Debug\net8.0\ref\lesson3.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\appsettings.Development.json
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\appsettings.json
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\lesson3.exe
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\lesson3.deps.json
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\lesson3.runtimeconfig.json
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\lesson3.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\lesson3.pdb
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\Azure.Core.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\Azure.Identity.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\Humanizer.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\Microsoft.OpenApi.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\Mono.TextTemplating.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\System.CodeDom.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\System.Composition.Convention.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\System.Composition.Hosting.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\System.Composition.Runtime.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\System.Composition.TypedParts.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\System.Data.SqlClient.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\System.Drawing.Common.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\System.Memory.Data.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\System.Runtime.Caching.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\System.Security.Permissions.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\System.Windows.Extensions.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+M:\web api\תרגילים\lesson3\lesson3\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+M:\web api\תרגילים\lesson3\lesson3\obj\Debug\net8.0\lesson3.csproj.AssemblyReference.cache
+M:\web api\תרגילים\lesson3\lesson3\obj\Debug\net8.0\lesson3.GeneratedMSBuildEditorConfig.editorconfig
+M:\web api\תרגילים\lesson3\lesson3\obj\Debug\net8.0\lesson3.AssemblyInfoInputs.cache
+M:\web api\תרגילים\lesson3\lesson3\obj\Debug\net8.0\lesson3.AssemblyInfo.cs
+M:\web api\תרגילים\lesson3\lesson3\obj\Debug\net8.0\lesson3.csproj.CoreCompileInputs.cache
+M:\web api\תרגילים\lesson3\lesson3\obj\Debug\net8.0\lesson3.MvcApplicationPartsAssemblyInfo.cs
+M:\web api\תרגילים\lesson3\lesson3\obj\Debug\net8.0\lesson3.MvcApplicationPartsAssemblyInfo.cache
+M:\web api\תרגילים\lesson3\lesson3\obj\Debug\net8.0\staticwebassets.build.json
+M:\web api\תרגילים\lesson3\lesson3\obj\Debug\net8.0\staticwebassets.development.json
+M:\web api\תרגילים\lesson3\lesson3\obj\Debug\net8.0\staticwebassets\msbuild.lesson3.Microsoft.AspNetCore.StaticWebAssets.props
+M:\web api\תרגילים\lesson3\lesson3\obj\Debug\net8.0\staticwebassets\msbuild.build.lesson3.props
+M:\web api\תרגילים\lesson3\lesson3\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.lesson3.props
+M:\web api\תרגילים\lesson3\lesson3\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.lesson3.props
+M:\web api\תרגילים\lesson3\lesson3\obj\Debug\net8.0\staticwebassets.pack.json
+M:\web api\תרגילים\lesson3\lesson3\obj\Debug\net8.0\scopedcss\bundle\lesson3.styles.css
+M:\web api\תרגילים\lesson3\lesson3\obj\Debug\net8.0\lesson3.csproj.Up2Date
+M:\web api\תרגילים\lesson3\lesson3\obj\Debug\net8.0\lesson3.dll
+M:\web api\תרגילים\lesson3\lesson3\obj\Debug\net8.0\refint\lesson3.dll
+M:\web api\תרגילים\lesson3\lesson3\obj\Debug\net8.0\lesson3.pdb
+M:\web api\תרגילים\lesson3\lesson3\obj\Debug\net8.0\lesson3.genruntimeconfig.cache
+M:\web api\תרגילים\lesson3\lesson3\obj\Debug\net8.0\ref\lesson3.dll
