@@ -11,6 +11,5 @@ namespace lesson3.Dl
         IEnumerable<Tasks> GetTasksByuserId(int id);
         bool ExistUser(int id);
         bool ExistProject(int id);
-
     }
 }

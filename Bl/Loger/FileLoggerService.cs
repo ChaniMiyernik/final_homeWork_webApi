@@ -3,12 +3,10 @@
     public class FileLoggerService : ILoggerService
     {
         private readonly string _filePath;
-
         public FileLoggerService(string filePath)
         {
             _filePath = filePath;
         }
-
         public void Log(string message)
         {
             try

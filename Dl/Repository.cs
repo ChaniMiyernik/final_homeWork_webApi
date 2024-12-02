@@ -15,23 +15,17 @@ namespace lesson3.Dl
         {
             _context = context;
         }
-       
-
         public void UpdateTask(Tasks task)
         {
             _context.Tasks.Update(task);
             _context.SaveChanges();
-            
         }
-
         public Tasks CreateTask(Tasks task)
         {
             _context.Tasks.Add(task);
-           
             _context.SaveChanges();
             return task;
         }
-
         public IEnumerable<Tasks> GetAllTasks()
         {
             return _context.Tasks.ToList();
@@ -39,7 +33,6 @@ namespace lesson3.Dl
 
         public IEnumerable<Tasks> Delete(Tasks task)
         {
-
             _context.Tasks.Remove(task);
             _context.SaveChanges();
             return _context.Tasks.ToList();
@@ -47,7 +40,7 @@ namespace lesson3.Dl
 
         public IEnumerable<Tasks> GetTasksByuserId(int id)
         {
-            IEnumerable<Tasks> tasks = _context.Tasks.Where(t => t.userId == id).Select(t => t).ToList();
+            IEnumerable<Tasks> tasks = _context.Tasks.Where(t => t.UserId == id).Select(t => t).ToList();
             if(tasks!=null)
             {
                 return tasks;
@@ -56,7 +49,7 @@ namespace lesson3.Dl
         }
         public bool ExistUser(int id)
         {
-            User user = _context.User.FirstOrDefault(u => u.id == id);
+            User user = _context.User.FirstOrDefault(u => u.Id == id);
             if(user!=null)
             {
                 return true;
@@ -68,7 +61,7 @@ namespace lesson3.Dl
         }
         public bool ExistProject(int id)
         {
-            Project project = _context.Project.FirstOrDefault(u => u.id == id);
+            Project project = _context.Project.FirstOrDefault(u => u.Id == id);
             if (project != null)
             {
                 return true;

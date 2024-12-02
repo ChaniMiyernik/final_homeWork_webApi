@@ -1,5 +1,4 @@
 ﻿using lesson3.Model;
-
 namespace lesson3.Bl
 {
     public interface IService
@@ -9,6 +8,5 @@ namespace lesson3.Bl
         Tasks UpdateTasks(Tasks task);
         IEnumerable<Tasks> Delete(int id);
         IEnumerable<Tasks> GetTasksByuserId(int id);
-
     }
 }

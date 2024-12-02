@@ -1,7 +1,5 @@
 ﻿using lesson3.Dl;
-
 using lesson3.Model;
-
 namespace lesson3.Bl.Loger
 {
     public class DataBaseLogerService : ILoggerService
@@ -14,8 +12,8 @@ namespace lesson3.Bl.Loger
         public void Log(string message)
         {
             Logger logger = new Logger();
-            logger.log = message;
-            _context.Logs.Add(logger);
+            logger.Log = message;
+            _context.Logger.Add(logger);
             _context.SaveChanges();
         }
     }

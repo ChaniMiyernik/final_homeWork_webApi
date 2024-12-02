@@ -4,7 +4,6 @@ using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Data;
 using System.Data.SqlClient;
-
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
 namespace lesson3.Controllers
@@ -31,8 +30,6 @@ namespace lesson3.Controllers
             if (dt != null)
                 return Ok("well done");
             return Ok("oooopppppppssssssss");
-
         }
     }
-    
 }

@@ -12,38 +12,45 @@ namespace lesson3.Controllers
     public class TasksController : ControllerBase
     {
         private readonly IService _service;
-       
         public TasksController(IService service)
         {
             _service = service;
         }
+
+        //get all tasks
         [HttpGet]
         public IEnumerable<Tasks> GetTasks()
         {
             return _service.GetAllTasks();
         }
-        //put
+
+        //create task
         [HttpPost]
         public Tasks CreateTask([FromBody] Tasks task)
         {
             return _service.createTask(task);
         }
+        
+        //update task
         [HttpPut]
         public Tasks UpdateTask([FromBody]Tasks task)
         {
             _service.UpdateTasks(task);
             return task;
         }
+
+        //delete task
         [HttpDelete]  
         public IEnumerable<Tasks> Delete([FromBody] int id)
         {
             return _service.Delete(id);
         }
+
+        //get task by id
         [HttpGet("{Id}")]
         public IEnumerable<Tasks> GetTasksByUserId(int Id)
         {
             return _service.GetTasksByuserId(Id);
         }
-      
     }
 }

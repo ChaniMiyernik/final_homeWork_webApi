@@ -584,3 +584,4 @@ M:\web api\תרגילים\lesson3\lesson3\obj\Debug\net8.0\refint\lesson3.dll
 M:\web api\תרגילים\lesson3\lesson3\obj\Debug\net8.0\lesson3.pdb
 M:\web api\תרגילים\lesson3\lesson3\obj\Debug\net8.0\lesson3.genruntimeconfig.cache
 M:\web api\תרגילים\lesson3\lesson3\obj\Debug\net8.0\ref\lesson3.dll
+M:\web api\תרגילים\lesson3\lesson3\obj\Debug\net8.0\lesson3.sourcelink.json

@@ -5,12 +5,10 @@ namespace lesson3.Bl.Loger
     public class LoggerFactory
     {
         private readonly IServiceProvider _serviceProvider;
-
         public LoggerFactory(IServiceProvider serviceProvider)
         {
             _serviceProvider = serviceProvider;
         }
-
         public ILoggerService GetLogger(string useLogger)
         {
             if (useLogger=="file")
@@ -19,7 +17,7 @@ namespace lesson3.Bl.Loger
             }
             else if(useLogger=="console")
             {
-                return _serviceProvider.GetRequiredService<ConsoleLoggerService>();
+                return _serviceProvider.GetRequiredService<ILoggerService>();
             }
             else
             {

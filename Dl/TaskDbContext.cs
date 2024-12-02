@@ -8,13 +8,10 @@ namespace lesson3.Dl
         public TaskDbContext(DbContextOptions<TaskDbContext> options)
             : base(options)
         {
-
         }
-
         public DbSet<Tasks> Tasks { get; set; }
         public DbSet<User> User { get; set; }
         public DbSet<Project> Project { get; set; }
-        public DbSet<Logger> Logs { get; set; }
-
+        public DbSet<Logger> Logger { get; set; }
     }
 }

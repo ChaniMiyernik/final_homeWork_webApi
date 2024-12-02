@@ -2,6 +2,7 @@
 {
     public class Logger
     {
-        public string log { get; set; }
-         }
+        public int id { get; set; }
+        public string Log { get; set; }
+    }
 }

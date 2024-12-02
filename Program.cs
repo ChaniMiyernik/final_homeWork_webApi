@@ -5,27 +5,24 @@ using lesson3.Dl;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.OpenApi.Models;
 
-
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddScoped<IAttachmentRepository, AttachmentRepository>();
 builder.Services.AddScoped<IRepository, Repository>();
 builder.Services.AddScoped<IService, Service>();
+
 builder.Services.AddScoped<ILoggerService, ConsoleLoggerService>();
-builder.Services.AddScoped<ILoggerService, DataBaseLogerService>();
+builder.Services.AddScoped<DataBaseLogerService>();
 builder.Services.AddScoped<lesson3.Bl.Loger.LoggerFactory>();
 builder.Services.AddScoped<FileLoggerService>(provider =>
     new FileLoggerService("logs.txt")
 );
-
-
 builder.Services.AddDbContext<TaskDbContext>(options =>
   options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"))
 );
 
 // Add services to the container.
 builder.Services.AddControllers();
-
 
 // Add Swagger services to the container.
 builder.Services.AddEndpointsApiExplorer(); // For exposing endpoints
@@ -62,11 +59,8 @@ if (app.Environment.IsDevelopment())
         c.RoutePrefix = string.Empty; // Serve Swagger UI at the app's root
     });
 }
-
 app.UseHttpsRedirection();
 app.UseRouting();
 app.UseAuthorization();
-
 app.MapControllers();
-
 app.Run();
